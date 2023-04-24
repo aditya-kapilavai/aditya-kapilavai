@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditya-kapilavai. 
-In this Git repository contains, animations, Theorems
+In this Git repository contains, animations, proofs of the theorems and solutions for the ab-inito phase for the metrics presented in the paper "Singularity distances computations of 3-RPR manipulator using extrinsic metrics."
 
 
 - 👀 I’m interested in ...
